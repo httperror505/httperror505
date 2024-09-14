@@ -4,7 +4,7 @@ Hello there homie 👋
 
 Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be a wild hog at the corporate tech industry 
 
-## Languages
+## Languages 🌐
 
 - 🔤 Javascript
 - 🐍 Python
@@ -12,36 +12,36 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🐘 PHP
 - ♾️ C/C++
 
-## Frontend
+## Frontend 🖥️
 - ⚛️ React (Hooks, React Query)
 - 🌐 HTML/CCS/JS
 - 🅱️ Bootstrap 3,4,5
 - 🔥 Laravel
 - 🥠 VanillaJS
 
-## Mobile
+## Mobile 📱
 - ⚛️ React Native (Android)
 
-## Backend
+## Backend 🛠️
 - 🟢 Node (Express)
 - 🐘 PHP (Laravel)
 - 🚀 REST
 - ✨ Serverless
 
-## Database
+## Database 🛢️
 - 💾 SQL: MySQL / Postgres / SQLite
 - 🔀 NoSQL: MongoDB
 - 🚀 Cache: Redis / DynamoDB
 - 🔎 Search: Elasticsearch / Fuse Search
 
-## DevOps
+## DevOps 🤖
 - ☁️ AWS / Azure
 - 🐳 Docker
 - ☸️ Kubernetes
 - 🤖 Github Actions
 - ✨ Jest / Selenium
 
-## Cybersecurity
+## Cybersecurity 🛡️
 - 🐮 Beef-XSS
 - 💨 Burpsuite
 - 🕵️ Metasploit
@@ -53,7 +53,8 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
 - 🖌️ Blender
 
-## 💡 Learning 
+## Learning 💡
+- 🔨 Bash Scripting
 - 👁️‍🗨️ GraphQL
 - 🔄 WebSockets
 - 🖥️ WebRTC
@@ -62,6 +63,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 ## Additional Info 
 - 🌱 Always learning
+- 🧐 Always curious
 
 ### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">jmailme.johnrey</a>
 <!--
