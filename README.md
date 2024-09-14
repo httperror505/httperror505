@@ -63,9 +63,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 ## Additional Info 
 - 🌱 Always learning
 
-### Reach me out at [^1]
-
-[^1]<a href="mailto:jrtolosa@gbox.ncf.edu.ph">Link text</a>
+### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">jmailme.johnrey</a>
 <!--
 **httperror505/httperror505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
