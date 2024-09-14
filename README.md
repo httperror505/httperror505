@@ -7,7 +7,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 ## Languages 🌐
 
 - 🔤 Javascript
-- 🐍 Python
+- 🐍 Python 
 - ♨️ Java
 - 🐘 PHP
 - ♾️ C/C++
@@ -48,6 +48,11 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🎯 Nmap
 - 🐞 x64dbg / dotPeek / nasm (Reverse Engineering)
 - 🔑 Cryptography
+
+## Machine Learning
+- 🌕 Jupyter Notebook
+- ⚡ Google Colab
+- 🖧 Python ML
 
 ## Game Development 🎮
 - 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
