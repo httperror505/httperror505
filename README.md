@@ -54,11 +54,11 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - ⚡ Google Colab
 - 🖧 Python ML
 
-## Game Development 🎮
-- 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
-- 🖌️ Blender
 
 ## Learning 💡
+<!--## Game Development 🎮-->
+- 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
+- 🖌️ Blender
 - 🔨 Bash Scripting
 - 👁️‍🗨️ GraphQL
 - 🔄 WebSockets
