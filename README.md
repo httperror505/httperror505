@@ -25,13 +25,14 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 ## Backend 🛠️
 - 🟢 Node (Express)
 - 🐘 PHP (Laravel)
+- 🌶️ Flask (Python)
 - 🚀 REST
 - ✨ Serverless
 
 ## Database 🛢️
 - 💾 SQL: MySQL / Postgres / SQLite
 - 🔀 NoSQL: MongoDB
-- 🚀 Cache: Redis / DynamoDB
+- 🚀 Cache: Redis 
 - 🔎 Search: Elasticsearch / Fuse Search
 
 ## DevOps 🤖
@@ -52,8 +53,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 ## Machine Learning
 - 🌕 Jupyter Notebook
 - ⚡ Google Colab
-- 🖧 Python ML
-
+- 🖧  Python ML
 
 ## Learning 💡
 <!--## Game Development 🎮-->
