@@ -2,7 +2,7 @@
 
 Hello there homie 👋
 
-Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be a wild hog at the corporate tech industry 
+Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be wild hog at the corporate tech industry 
 
 ## Languages 🌐
 
@@ -51,26 +51,26 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🔑 Cryptography
 
 ## Machine Learning
+- 🖧  Python ML
 - 🌕 Jupyter Notebook
 - ⚡ Google Colab
-- 🖧  Python ML
 
 ## Learning 💡
 <!--## Game Development 🎮-->
-- 💎 Three.js / WebGL / WebGPU (I love react-three-fiber!)
-- 🖌️ Blender
-- 🔨 Bash Scripting
-- 👁️‍🗨️ GraphQL
-- 🔄 WebSockets
-- 🖥️ WebRTC
-- ⚙️ Rust
 - 🔠 Typescript
+- 🔄 WebSockets
+- 🔨 Bash Scripting
+- ⚙️ Rust
+- 💎 Three.js / WebGL / WebGPU
+- 🖥️ WebRTC
+- 🖌️ Blender
+- 👁️‍🗨️ GraphQL
 
 ## Additional Info 
-- 🌱 Always learning
 - 🧐 Always curious
+- 🌱 Always learning
 
-### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">jmailme.johnrey</a>
+### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">John Rey's Mail</a>.
 <!--
 **httperror505/httperror505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
