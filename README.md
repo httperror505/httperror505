@@ -51,7 +51,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🔑 Cryptography
 
 ## Machine Learning
--  🖧 Python ML
+-  🖧  Python ML
 - 🌕 Jupyter Notebook
 - ⚡ Google Colab
 
