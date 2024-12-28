@@ -70,7 +70,7 @@ Game Development 🎮
 - 🧐 Always curious
 - 🌱 Always learning-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httperror505&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httperror505&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httperror505&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httperror505&layout=compact&theme=transparent&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">John Rey's Mail</a>.
