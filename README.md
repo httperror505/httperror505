@@ -55,8 +55,8 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🌕 Jupyter Notebook
 - ⚡ Google Colab
 
-## Learning 💡
-<!--## Game Development 🎮-->
+<!--## Learning 💡
+Game Development 🎮
 - 🔠 Typescript
 - 🔄 WebSockets
 - 🔨 Bash Scripting
@@ -68,7 +68,14 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 ## Additional Info 
 - 🧐 Always curious
-- 🌱 Always learning
+- 🌱 Always learning-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hhtperror505&repo=github-readme-stats&theme=buefy&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=httperror505&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 ### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">John Rey's Mail</a>.
 <!--
