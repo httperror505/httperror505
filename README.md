@@ -36,11 +36,11 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🔎 Search: Elasticsearch / Fuse Search
 
 ## DevOps 🤖
-- ☁️ AWS / Azure
 - 🐳 Docker
-- ☸️ Kubernetes
-- 🤖 Github Actions
 - ✨ Jest / Selenium
+- 🤖 Github Actions
+- ☸️ Kubernetes
+- ☁️ AWS / Azure
 
 ## Cybersecurity 🛡️
 - 🐮 Beef-XSS
