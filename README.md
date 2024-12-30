@@ -73,7 +73,7 @@ Game Development 🎮
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=httperror505&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httperror505&layout=compact&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF" /></a> |
 | ------------- | ------------- |
 
-### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">John Rey's Mail</a>.
+### Reach me out at <a href="mailto:jrtolosa@gbox.ncf.edu.ph">John Rey's Mailbox</a>.
 <!--
 **httperror505/httperror505** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
