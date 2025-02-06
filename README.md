@@ -11,6 +11,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - ♨️ Java
 - 🐘 PHP
 - ♾️ C/C++
+- ©️ C#
 
 ## Frontend 🖥️
 - ⚛️ React (Hooks, React Query)
@@ -18,6 +19,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🅱️ Bootstrap 3,4,5
 - 🔥 Laravel
 - 🥠 VanillaJS
+- 🟣 Blazor 
 
 ## Mobile 📱
 - ⚛️ React Native (Android)
