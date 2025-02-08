@@ -18,7 +18,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🔀 NoSQL: MongoDB                | ✨ Jest / Selenium                  | 💨 Burpsuite                     | 🌕 Jupyter Notebook              |
 | 🚀 Cache: Redis                  | 🤖 Github Actions                  | 🕵️ Metasploit                   | ⚡ Google Colab                   |
 | 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes                     | 🎯 Nmap                          |                                  |
-|                                  | ☁️ AWS / Azure                     | 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |                                  |
+|                                  | ☁️ AWS / Azure                     | 🐞 x64dbg / dotPeek / nasm |                                  |
 |                                  |                                   | 🔑 Cryptography                  |                                  |
 
 <!--## Learning 💡
