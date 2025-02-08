@@ -19,7 +19,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🅱️ Bootstrap 3,4,5
 - 🔥 Laravel
 - 🥠 VanillaJS
-- 🟣 Blazor 
+- 🟣 Blazor WebAssembly
 
 ## Mobile 📱
 - ⚛️ React Native (Android)
@@ -30,6 +30,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 - 🌶️ Flask (Python)
 - 🚀 REST
 - ✨ Serverless
+- 🟣 Blazor Server
 
 ## Database 🛢️
 - 💾 SQL: MySQL / Postgres / SQLite
