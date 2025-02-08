@@ -17,42 +17,40 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 ---
 
-#### **Frontend & Mobile 🖥️📱**
+#### **Frontend, Backend, Database & DevOps 🖥️🛠️🛢️🤖**
 
-| **Frontend**                     | **Mobile**                       |
-|----------------------------------|----------------------------------|
-| ⚛️ React (Hooks, React Query)    | ⚛️ React Native (Android)        |
-| 🌐 HTML/CSS/JS                   |                                  |
-| 🅱️ Bootstrap 3,4,5               |                                  |
-| 🔥 Laravel                       |                                  |
-| 🥠 VanillaJS                     |                                  |
-| 🟣 Blazor WebAssembly            |                                  |
-
----
-
-#### **Backend, Database, DevOps 🛠️🛢️🤖**
-
-| **Backend**                      | **Database**                           | **DevOps**            |
-|----------------------------------|----------------------------------------|-----------------------|
-| 🟢 Node (Express)                | 💾 SQL: MySQL / Postgres / SQLite      | 🐳 Docker             |
-| 🐘 PHP (Laravel)                 | 🔀 NoSQL: MongoDB                      | ✨ Jest / Selenium    |
-| 🌶️ Flask (Python)               | 🚀 Cache: Redis                        | 🤖 Github Actions    |
-| 🚀 REST                          | 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes         |
-| ✨ Serverless                    |                                        | ☁️ AWS / Azure        |
-| 🟣 Blazor Server                 |                                        |                       |
+| **Frontend**                     | **Backend**                      | **Database**                           | **DevOps**            |
+|----------------------------------|----------------------------------|----------------------------------------|-----------------------|
+| ⚛️ React (Hooks, React Query)    | 🟢 Node (Express)                | 💾 SQL: MySQL / Postgres / SQLite      | 🐳 Docker             |
+| 🌐 HTML/CSS/JS                   | 🐘 PHP (Laravel)                 | 🔀 NoSQL: MongoDB                      | ✨ Jest / Selenium    |
+| 🅱️ Bootstrap 3,4,5               | 🌶️ Flask (Python)               | 🚀 Cache: Redis                        | 🤖 Github Actions    |
+| 🔥 Laravel                       | 🚀 REST                          | 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes         |
+| 🥠 VanillaJS                     | ✨ Serverless                    |                                        | ☁️ AWS / Azure        |
+| 🟣 Blazor WebAssembly            | 🟣 Blazor Server                 |                                        |                       |
+| ⚛️ React Native (Android)        |                                  |                                        |                       |
 
 ---
 
-#### **Cybersecurity 🛡️ & Machine Learning 🖧**
+#### **Machine Learning 🖧**
 
-| **Cybersecurity**                     | **Machine Learning**         |
-|--------------------------------------|------------------------------|
-| 🐮 Beef-XSS                          | 🖧 Python ML                 |
-| 💨 Burpsuite                         | 🌕 Jupyter Notebook          |
-| 🕵️ Metasploit                       | ⚡ Google Colab              |
-| 🎯 Nmap                              |                              |
-| 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |                              |
-| 🔑 Cryptography                      |                              |
+| **Machine Learning**         |
+|------------------------------|
+| 🖧 Python ML                 |
+| 🌕 Jupyter Notebook          |
+| ⚡ Google Colab              |
+
+---
+
+#### **Cybersecurity 🛡️**
+
+| **Cybersecurity**                     |
+|--------------------------------------|
+| 🐮 Beef-XSS                          |
+| 💨 Burpsuite                         |
+| 🕵️ Metasploit                       |
+| 🎯 Nmap                              |
+| 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |
+| 🔑 Cryptography                      |
 
 
 <!--## Learning 💡
