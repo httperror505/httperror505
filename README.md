@@ -3,25 +3,23 @@
 Hello there homie 👋
 
 Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be wild hog at the corporate tech industry 
+| **Languages 🌐**                 | **Frontend 🖥️**                    | **Mobile 📱**                     | **Backend 🛠️**                   |
+|----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
+| 🔤 Javascript                    | ⚛️ React (Hooks, React Query)      | ⚛️ React Native (Android)        | 🟢 Node (Express)                |
+| 🐍 Python                        | 🌐 HTML/CSS/JS                     |                                  | 🐘 PHP (Laravel)                 |
+| ♨️ Java                          | 🅱️ Bootstrap 3,4,5                 |                                  | 🌶️ Flask (Python)               |
+| 🐘 PHP                           | 🔥 Laravel                         |                                  | 🚀 REST                          |
+| ♾️ C/C++                         | 🥠 VanillaJS                       |                                  | ✨ Serverless                    |
+| ©️ C#                            | 🟣 Blazor WebAssembly              |                                  | 🟣 Blazor Server                 |
 
-| **Languages 🌐**  | **Frontend 🖥️**  | **Mobile 📱** | **Backend 🛠️**  |
-|-------------------|-------------------|---------------|------------------|
-| 🔤 Javascript     | ⚛️ React (Hooks, React Query) | ⚛️ React Native (Android) | 🟢 Node (Express) |
-| 🐍 Python         | 🌐 HTML/CSS/JS    |               | 🐘 PHP (Laravel) |
-| ♨️ Java           | 🅱️ Bootstrap 3,4,5 |               | 🌶️ Flask (Python) |
-| 🐘 PHP            | 🔥 Laravel        |               | 🚀 REST          |
-| ♾️ C/C++          | 🥠 VanillaJS      |               | ✨ Serverless    |
-| ©️ C#             | 🟣 Blazor WebAssembly |           | 🟣 Blazor Server |
-
-| **Database 🛢️**   | **DevOps 🤖**      | **Cybersecurity 🛡️**   | **Machine Learning** |
-|-------------------|--------------------|------------------------|----------------------|
-| 💾 SQL: MySQL / Postgres / SQLite | 🐳 Docker          | 🐮 Beef-XSS            | 🖧 Python ML          |
-| 🔀 NoSQL: MongoDB | ✨ Jest / Selenium  | 💨 Burpsuite           | 🌕 Jupyter Notebook  |
-| 🚀 Cache: Redis   | 🤖 Github Actions  | 🕵️ Metasploit         | ⚡ Google Colab       |
-| 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes     | 🎯 Nmap                |                      |
-|                   | ☁️ AWS / Azure     | 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |                      |
-|                   |                    | 🔑 Cryptography        |                      |
-
+| **Database 🛢️**                  | **DevOps 🤖**                       | **Cybersecurity 🛡️**             | **Machine Learning**             |
+|----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
+| 💾 SQL: MySQL / Postgres / SQLite | 🐳 Docker                          | 🐮 Beef-XSS                      | 🖧 Python ML                     |
+| 🔀 NoSQL: MongoDB                | ✨ Jest / Selenium                  | 💨 Burpsuite                     | 🌕 Jupyter Notebook              |
+| 🚀 Cache: Redis                  | 🤖 Github Actions                  | 🕵️ Metasploit                   | ⚡ Google Colab                   |
+| 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes                     | 🎯 Nmap                          |                                  |
+|                                  | ☁️ AWS / Azure                     | 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |                                  |
+|                                  |                                   | 🔑 Cryptography                  |                                  |
 
 <!--## Learning 💡
 Game Development 🎮
