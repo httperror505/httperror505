@@ -4,59 +4,24 @@ Hello there homie 👋
 
 Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be wild hog at the corporate tech industry 
 
-## Languages 🌐
+| **Languages 🌐**  | **Frontend 🖥️**  | **Mobile 📱** | **Backend 🛠️**  |
+|-------------------|-------------------|---------------|------------------|
+| 🔤 Javascript     | ⚛️ React (Hooks, React Query) | ⚛️ React Native (Android) | 🟢 Node (Express) |
+| 🐍 Python         | 🌐 HTML/CSS/JS    |               | 🐘 PHP (Laravel) |
+| ♨️ Java           | 🅱️ Bootstrap 3,4,5 |               | 🌶️ Flask (Python) |
+| 🐘 PHP            | 🔥 Laravel        |               | 🚀 REST          |
+| ♾️ C/C++          | 🥠 VanillaJS      |               | ✨ Serverless    |
+| ©️ C#             | 🟣 Blazor WebAssembly |           | 🟣 Blazor Server |
 
-- 🔤 Javascript
-- 🐍 Python 
-- ♨️ Java
-- 🐘 PHP
-- ♾️ C/C++
-- ©️ C#
+| **Database 🛢️**   | **DevOps 🤖**      | **Cybersecurity 🛡️**   | **Machine Learning** |
+|-------------------|--------------------|------------------------|----------------------|
+| 💾 SQL: MySQL / Postgres / SQLite | 🐳 Docker          | 🐮 Beef-XSS            | 🖧 Python ML          |
+| 🔀 NoSQL: MongoDB | ✨ Jest / Selenium  | 💨 Burpsuite           | 🌕 Jupyter Notebook  |
+| 🚀 Cache: Redis   | 🤖 Github Actions  | 🕵️ Metasploit         | ⚡ Google Colab       |
+| 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes     | 🎯 Nmap                |                      |
+|                   | ☁️ AWS / Azure     | 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |                      |
+|                   |                    | 🔑 Cryptography        |                      |
 
-## Frontend 🖥️
-- ⚛️ React (Hooks, React Query)
-- 🌐 HTML/CCS/JS
-- 🅱️ Bootstrap 3,4,5
-- 🔥 Laravel
-- 🥠 VanillaJS
-- 🟣 Blazor WebAssembly
-
-## Mobile 📱
-- ⚛️ React Native (Android)
-
-## Backend 🛠️
-- 🟢 Node (Express)
-- 🐘 PHP (Laravel)
-- 🌶️ Flask (Python)
-- 🚀 REST
-- ✨ Serverless
-- 🟣 Blazor Server
-
-## Database 🛢️
-- 💾 SQL: MySQL / Postgres / SQLite
-- 🔀 NoSQL: MongoDB
-- 🚀 Cache: Redis 
-- 🔎 Search: Elasticsearch / Fuse Search
-
-## DevOps 🤖
-- 🐳 Docker
-- ✨ Jest / Selenium
-- 🤖 Github Actions
-- ☸️ Kubernetes
-- ☁️ AWS / Azure
-
-## Cybersecurity 🛡️
-- 🐮 Beef-XSS
-- 💨 Burpsuite
-- 🕵️ Metasploit
-- 🎯 Nmap
-- 🐞 x64dbg / dotPeek / nasm (Reverse Engineering)
-- 🔑 Cryptography
-
-## Machine Learning
--  🖧  Python ML
-- 🌕 Jupyter Notebook
-- ⚡ Google Colab
 
 <!--## Learning 💡
 Game Development 🎮
