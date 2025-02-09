@@ -19,17 +19,32 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 |                                  | ⚛️ React Native (Android)            |                                    |                                        |                       |
 
 ---
+### **Machine Learning 🖧**
 
-### **Machine Learning 🖧** \t ### **Cybersecurity 🛡️**
+<div class="row">
+    <div class="col">
+        <h3>Machine Learning 🖧</h3>
+        <table>
+            <tr><th>Machine Learning</th></tr>
+            <tr><td>🖧 Python ML</td></tr>
+            <tr><td>🌕 Jupyter Notebook</td></tr>
+            <tr><td>⚡ Google Colab</td></tr>
+        </table>
+    </div>
+    <div class="col">
+        <h3>Cybersecurity 🛡️</h3>
+        <table>
+            <tr><th>Cybersecurity</th></tr>
+            <tr><td>🐮 Beef-XSS</td></tr>
+            <tr><td>🕵️ Metasploit</td></tr>
+            <tr><td>💨 Burpsuite</td></tr>
+            <tr><td>🎯 Nmap</td></tr>
+            <tr><td>🐞 x64dbg / dotPeek / nasm (Reverse Engineering)</td></tr>
+            <tr><td>🔑 Cryptography</td></tr>
+        </table>
+    </div>
+</div>
 
-| **Machine Learning**         | | **Cybersecurity**                     |
-|------------------------------| |--------------------------------------|
-| 🖧 Python ML                 | | 🐮 Beef-XSS                          |
-| 🌕 Jupyter Notebook          | | 🕵️ Metasploit                       |
-| ⚡ Google Colab              | | 💨 Burpsuite                         |
-|                              | | 🎯 Nmap                              |
-|                              | | 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |
-|                              | | 🔑 Cryptography                      |
 
 ---
 
