@@ -2,7 +2,10 @@
 
 Hello there homie 👋
 
-Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be wild hog at the corporate tech industry 
+Currently a **student** at Naga College Foundation, Inc. - College of Computer Studies. Soon to be wild hog at the corporate tech industry
+
+---
+
 ### **Languages, Frontend, Backend, Database & DevOps 🌐🖥️🛠️🛢️🤖**
 
 | **Languages**                   | **Frontend**                         | **Backend**                        | **Database**                           | **DevOps**            |
@@ -17,13 +20,16 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 ---
 
-### **Machine Learning 🖧**
+### **Machine Learning 🖧** \t ### **Cybersecurity 🛡️**
 
-| **Machine Learning**         |
-|------------------------------|
-| 🖧 Python ML                 |
-| 🌕 Jupyter Notebook          |
-| ⚡ Google Colab              |
+| **Machine Learning**         | | **Cybersecurity**                     |
+|------------------------------| |--------------------------------------|
+| 🖧 Python ML                 | | 🐮 Beef-XSS                          |
+| 🌕 Jupyter Notebook          | | 🕵️ Metasploit                       |
+| ⚡ Google Colab              | | 💨 Burpsuite                         |
+|                              | | 🎯 Nmap                              |
+|                              | | 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |
+|                              | | 🔑 Cryptography                      |
 
 ---
 
