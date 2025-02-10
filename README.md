@@ -39,8 +39,9 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🕵️ Metasploit                       |
 | 💨 Burpsuite                         |
 | 🎯 Nmap                              |
-| 🐞 x64dbg / dotPeek / nasm |
+| 🐞 x64dbg / dotPeek / nasm           |
 | 🔑 Cryptography                      |
+| 🐦‍⬛ Kali Linux | Parrot OS            |
 
 <!--## Learning 💡
 Game Development 🎮
