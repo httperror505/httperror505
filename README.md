@@ -39,7 +39,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🕵️ Metasploit                       |
 | 💨 Burpsuite                         |
 | 🎯 Nmap                              |
-| 🐞 x64dbg / dotPeek / nasm (Reverse Engineering) |
+| 🐞 x64dbg / dotPeek / nasm |
 | 🔑 Cryptography                      |
 
 <!--## Learning 💡
