@@ -41,7 +41,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🎯 Nmap                              |
 | 🐞 x64dbg / dotPeek / nasm           |
 | 🔑 Cryptography                      |
-| 🐦‍⬛ Kali Linux | Parrot OS            |
+| 🐦‍⬛ Kali Linux  |
 
 <!--## Learning 💡
 Game Development 🎮
