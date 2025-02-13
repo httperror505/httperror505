@@ -1,4 +1,4 @@
-# Aspiring Full Stack Developer | Cybersecurity Expert 👨🏻‍💻
+# Aspiring Full Stack Developer | Cybersecurity Professional 👨🏻‍💻
 
 Hello there homie 👋
 
