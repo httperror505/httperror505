@@ -13,8 +13,8 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🔤 Javascript                    | ⚛️ React (Hooks, React Query)        | 🟢 Node (Express)                  | 💾 SQL: MySQL / Postgres / SQLite      | 🐳 Docker             |
 | 🐍 Python                        | 🌐 HTML/CSS/JS                       | 🐘 PHP (Laravel)                   | 🔀 NoSQL: MongoDB                      | ✨ Jest / Selenium    |
 | ♨️ Java                          | 🅱️ Bootstrap 3,4,5                   | 🌶️ Flask (Python)                 | 🚀 Cache: Redis                        | 🤖 Github Actions    |
-| 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST                            | 🔎 Search: Elasticsearch / Fuse Search | ☸️ Kubernetes         |
-| ♾️ C/C++                         | 🥠 VanillaJS                         | ✨ Serverless                      |                                        | ☁️ AWS / Azure        |
+| 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST                            | 🔎 Search: Elasticsearch / Fuse Search |   ☁️ Azure    |
+| ♾️ C/C++                         | 🥠 VanillaJS                         | ✨ Serverless                      |                                        |                    |    
 | ©️ C#                            | 🟣 Blazor WebAssembly                | 🟣 Blazor Server                   |                                        |                       |
 |                                  | ⚛️ React Native (Android)            |                                    |                                        |                       |
 
@@ -53,6 +53,7 @@ Game Development 🎮
 - 🖥️ WebRTC
 - 🖌️ Blender
 - 👁️‍🗨️ GraphQL
+-☸️ Kubernetes 
 
 ## Additional Info 
 - 🧐 Always curious
