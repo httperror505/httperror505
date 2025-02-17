@@ -14,8 +14,8 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🐍 Python                        | 🌐 HTML/CSS/JS                       | 🐘 PHP (Laravel)                   | 🔀 NoSQL: MongoDB                      | ✨ Jest / Selenium    |
 | ♨️ Java                          | 🅱️ Bootstrap 3,4,5                   | 🌶️ Flask (Python)                 | 🚀 Cache: Redis                        | 🤖 Github Actions    |
 | 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST                            | 🔎 Search: Elasticsearch / Fuse Search |   ☁️ Azure    |
-| ♾️ C/C++                         | 🥠 VanillaJS                         | ✨ Serverless                      |                                        |                    |    
-| ©️ C#                            | 🟣 Blazor WebAssembly                | 🟣 Blazor Server                   |                                        |                       |
+| ♾️ C/C++                         | 🥠 VanillaJS                         | 🟣 Blazor Server                                   |                                        |                    |    
+| ©️ C#                            | 🟣 Blazor WebAssembly                |                   |                                        |                       |
 |                                  | ⚛️ React Native (Android)            |                                    |                                        |                       |
 
 ---
@@ -45,6 +45,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 <!--## Learning 💡
 Game Development 🎮
+- ✨ Serverless 
 - 🔠 Typescript
 - 🔄 WebSockets
 - 🔨 Bash Scripting
