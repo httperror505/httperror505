@@ -1,7 +1,6 @@
-<div style="position: relative;">
-  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="position: absolute; right: 0; top: 0; z-index: -1;">
-  
-  # Aspiring Full Stack Developer | Cybersecurity Professional 👨🏻‍💻
+<div style="display: flex; align-items: center;">
+  <p style="flex: 1;"># Aspiring Full Stack Developer | Cybersecurity Professional 👨🏻‍💻</p>
+  <img src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="30%" style="flex-shrink: 0;">
 </div>
 
 Hello there homie 👋
