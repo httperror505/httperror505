@@ -22,28 +22,19 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 ---
 
-### **Machine Learning 🖧**
+### **Machine Learning 🖧** ### **Cybersecurity 🛡️**
 
-| **Machine Learning**         |
-|------------------------------|
-| 🖧 Python ML                  |
-| 👁️ OpenCV               |
-| 🌕 Jupyter Notebook           |
-| ⚡ Google Colab               |
+| **Machine Learning**         | **Cybersecurity**                     |
+|------------------------------|--------------------------------------|
+| 🖧 Python ML                  |🐮 Beef-XSS                          |
+| 👁️ OpenCV               |🕵️ Metasploit                       |
+| 🌕 Jupyter Notebook           |💨 Burpsuite                         |
+| ⚡ Google Colab               | 🎯 Nmap                              |
+| ⏳ Tensorflow | 🐞 x64dbg / dotPeek / nasm           |
+| 🔦 PyTorch  | 🔑 Cryptography                      |
+|   | 🐦‍⬛ Kali Linux  |
 
 ---
-
-### **Cybersecurity 🛡️**
-
-| **Cybersecurity**                     |
-|--------------------------------------|
-| 🐮 Beef-XSS                          |
-| 🕵️ Metasploit                       |
-| 💨 Burpsuite                         |
-| 🎯 Nmap                              |
-| 🐞 x64dbg / dotPeek / nasm           |
-| 🔑 Cryptography                      |
-| 🐦‍⬛ Kali Linux  |
 
 <!--## Learning 💡
 Game Development 🎮
