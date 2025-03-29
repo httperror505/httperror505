@@ -17,7 +17,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | ♨️ Java                          | 🅱️ Bootstrap 3,4,5                   | 🌶️ Flask (Python)                 | 🚀 Cache: Redis                        | 🤖 Github Actions    |
 | 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST                            | 🔎 Search: Elasticsearch / Fuse Search |   ☁️ Azure    |
 | ♾️ C/C++                         | 🥠 VanillaJS                         | 🟣 Blazor Server                                   |                                        |                    |    
-| ©️ C#                            | 🟣 Blazor WebAssembly                |                   |                                        |                       |
+| ©️ C#                            | 🟣 Blazor WebAssembly                |  🪺 Nest JS                 |                                        |                       |
 |                                  | ⚛️ React Native (Android)            |                                    |                                        |                       |
 
 ---
