@@ -22,7 +22,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 
 ---
 
-### **Machine Learning 🖧** ### **Cybersecurity 🛡️**
+### **Machine Learning 🖧** & **Cybersecurity 🛡️**
 
 | **Machine Learning**         | **Cybersecurity**                     |
 |------------------------------|--------------------------------------|
