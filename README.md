@@ -16,10 +16,10 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | 🐍 Python                        | 🌐 HTML/CSS/JS                       | 🐘 PHP (Laravel)                   | 🔀 NoSQL: MongoDB                      | ✨ Jest / Selenium    |
 | ♨️ Java                          | 🅱️ Bootstrap 3,4,5                   | 🌶️ Flask (Python)                 | 🚀 Cache: Redis                        | 🤖 Github Actions    |
 | 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST                            | 🔎 Search: Elasticsearch / Fuse Search |   ☁️ Azure    |
-| ♾️ C/C++                         | 🥠 VanillaJS                         | 🟣 Blazor Server                                   |                                        |                    |    
-| ©️ C#                            | 🟣 Blazor WebAssembly                |  🪺 Nest JS                 |                                        |                       |
-|                                  | ⚛️ React Native (Android)            |                                    |                                        |                       |
-| | ▲ Next JS | | | |
+| ♾️ C/C++                         |      🟣 Blazor WebAssembly                    | 🟣 Blazor Server                                   |                                        |                    |    
+| ©️ C#                            | ⚛️ React Native (Android)                  |  🪺 Nest JS                 |                                        |                       |
+|                                  |  ▲ Next JS           |                                    |                                        |                       |
+
 ---
 
 ### **Machine Learning 🖧** & **Cybersecurity 🛡️**
