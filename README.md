@@ -19,7 +19,7 @@ Currently a **student** at Naga College Foundation, Inc. - College of Computer S
 | ♾️ C/C++                         | 🥠 VanillaJS                         | 🟣 Blazor Server                                   |                                        |                    |    
 | ©️ C#                            | 🟣 Blazor WebAssembly                |  🪺 Nest JS                 |                                        |                       |
 |                                  | ⚛️ React Native (Android)            |                                    |                                        |                       |
-
+| | ⃤ Next JS | | | |
 ---
 
 ### **Machine Learning 🖧** & **Cybersecurity 🛡️**
