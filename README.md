@@ -15,7 +15,7 @@ Currently a **graduating student** at Naga College Foundation, Inc. - College of
 | 🔤 Javascript                    | ⚛️ React (Hooks, React Query)        | 🟢 Node (Express)                  | 💾 SQL: MySQL / Postgres / SQLite      | 🐳 Docker             |
 | 🐍 Python                        | 🌐 HTML/CSS/JS                       | 🐘 PHP (Laravel)                   | 🔀 NoSQL: MongoDB                      | ✨ Jest / Selenium    |
 | ♨️ Java                          |        ⚛️ React Native (Android)             | 🌶️ Flask (Python)                 | 🚀 Cache: Redis                        | 🤖 Github Actions    |
-| 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST                            | 🔎 Search: Elasticsearch / Fuse Search |   ☁️ Azure    |
+| 🐘 PHP                           | 🔥 Laravel                           | 🚀 REST API                           | 🔎 Search: Elasticsearch / Fuse Search |   ☁️ Azure    |
 | ♾️ C/C++                         |      🟣 Blazor WebAssembly                    | 🟣 Blazor Server                                   |                                        |                    |    
 | ©️ C#                            |      ▲ Next JS               |  🪺 Nest JS                 |                                        |                       |
 |                                  |     🌊 Tailwind, Shadcn, Radix     |                                    |                                        |                       |
