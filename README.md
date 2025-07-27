@@ -4,7 +4,7 @@
 
 Hello there homie 👋
 
-Currently a **graduating student** at Naga College Foundation, Inc. - College of Computer Studies. A soon to be wild hog at the corporate tech industry
+A **graduate student** from Naga College Foundation, Inc. - College of Computer Studies. A wild hog entering the corporate tech industry.
 
 ---
 
