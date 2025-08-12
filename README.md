@@ -41,7 +41,7 @@ A **graduate** from Naga College Foundation, Inc. - College of Computer Studies.
 [![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) 
 [![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) 
 [![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
-[![Elasticsearch](https://img.shields.io/badge/elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)](https://www.elastic.co/elasticsearch/)
+![Elastic Search](https://img.shields.io/badge/Elastic%20Search%20-%20%23005571?style=for-the-badge&logo=Elasticsearch&logoColor=white)
 
 #### **DevOps & Testing** 🔧
 [![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
@@ -66,7 +66,7 @@ A **graduate** from Naga College Foundation, Inc. - College of Computer Studies.
 ![Static Badge](https://img.shields.io/badge/BEEF%20XSS-%237957D5?style=for-the-badge&logo=happycow&logoColor=white)
 [![Burpsuite](https://img.shields.io/badge/burpsuite-%23EE4730.svg?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/burp) 
 [![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/) 
-[![Kali Linux](https://img.shields.io/badge/kali%20linux-%23557C7B.svg?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) 
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux%20-%20%23557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white) 
 [![Cryptography](https://img.shields.io/badge/cryptography-%23607D8B.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![Dotpeek](https://img.shields.io/badge/DOTPEEK-%23000000?style=for-the-badge&logo=JetBrains&logoColor=white)
 ![Assembly](https://img.shields.io/badge/nasm%20%2F%20x64dbg-%23007AAC?style=for-the-badge&logo=AssemblyScript&logoColor=white)
