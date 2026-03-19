@@ -33,7 +33,7 @@ A **graduate** from Naga College Foundation, Inc. - College of Computer Studies.
 [![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) 
 [![Laravel](https://img.shields.io/badge/laravel-%23E00C00.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/)
 [![Flask](https://img.shields.io/badge/flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.0.x/)
-[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)
+<!--[![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)](https://nestjs.com/)-->
 ![ASP .NET](https://img.shields.io/badge/ASP%20.NET-%23512BD4?style=for-the-badge&logo=.NET&logoColor=white)
 
 #### **Database** 💾
